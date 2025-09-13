@@ -1,0 +1,23 @@
+{
+  "name": "node-react-social-media-be",
+  "version": "1.0.0",
+  "description": "This is the backend of the social media application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "helmet",
+    "mongodb",
+    "mongoose",
+    "javascript",
+    "redis"
+  ],
+  "author": "Ravi Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.9.2"
+  }
+}
